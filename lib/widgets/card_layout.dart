@@ -2,7 +2,7 @@ import 'package:appikorn_madix_widgets/box_appi/box_appi.dart';
 import 'package:appikorn_madix_widgets/text_appi/text_appi.dart';
 import 'package:flutter/material.dart';
 import 'package:mix/mix.dart';
-import 'package:training_project/router/app_router.dart';
+import 'package:appikorn_project/router/app_router.dart';
 
 Widget cardLayout(
     {required BuildContext context,

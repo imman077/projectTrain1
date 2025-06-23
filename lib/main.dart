@@ -1,6 +1,6 @@
 import "package:flutter/material.dart";
 import "package:flutter_riverpod/flutter_riverpod.dart";
-import "package:training_project/widgets/global.dart";
+import "package:appikorn_project/widgets/global.dart";
 import "router/app_router.dart";
 import 'package:talker_riverpod_logger/talker_riverpod_logger_observer.dart';
 import 'package:talker_riverpod_logger/talker_riverpod_logger_settings.dart';
